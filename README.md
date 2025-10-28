@@ -41,7 +41,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 > Gunakan catu daya 5V stabil untuk modul PZEM-004T dan pastikan ground disatukan dengan ESP32.
 
-![Skematik ESP32 ke PZEM](./images/"Skematik Alat.png")
+![Skematik ESP32 ke PZEM](./images/Skematik%20Alat.png)
 
 ---
 
