@@ -128,7 +128,7 @@ Aplikasi menampilkan data:
 * Energi (kWh)
 * Estimasi biaya listrik
 
-![UI Kodular](.//gambar/Output%20Aplikasi.jpeg)
+![UI Kodular](./Gambar/Output%20Aplikasi.jpeg)
 
 ---
 
