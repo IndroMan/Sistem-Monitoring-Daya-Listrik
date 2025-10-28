@@ -77,7 +77,7 @@ const char* ssid = "NamaWiFi";
 const char* password = "PasswordWiFi";
 const char* mqtt_server = "ip_broker";
 const int mqtt_port = 1883;
-const char* topic = "sensor/pzem";
+const char* topic = "sesuaikan topiknya";
 HardwareSerial pzemSerial(2);
 PZEM004Tv30 pzem(pzemSerial, 16, 17); // RX, TX
 ```
@@ -128,7 +128,7 @@ Aplikasi menampilkan data:
 * Energi (kWh)
 * Estimasi biaya listrik
 
-![UI Kodular](./images/ui-kodular.png)
+![UI Kodular](.//gambar/Output%20Aplikasi.png)
 
 ---
 
@@ -137,11 +137,11 @@ Aplikasi menampilkan data:
 ```
 /sistem-monitoring-daya-listrik
 │
-├─ /arduino_code      # Source code ESP32
-├─ /broker_config     # Konfigurasi Mosquitto
-├─ /frp_config        # File frpc.ini / frps.ini
-├─ /android_app       # File .aia / .apk Kodular
-├─ /images            # Diagram, skematik, UI aplikasi
+├─ /kodingan arduino      # Source code ESP32
+├─ /konfig broker         # Konfigurasi Mosquitto
+├─ /konfig frp            # File frpc.ini / frps.ini
+├─ /apk android           # File .aia / .apk Kodular
+├─ /Gambar                # Topologi, skematik, output aplikasi
 └─ README.md
 ```
 
