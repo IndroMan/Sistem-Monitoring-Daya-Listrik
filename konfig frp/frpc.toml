@@ -1,0 +1,13 @@
+user = "Indro"
+serverAddr = "tunnel.kazuyosan.my.id"
+serverPort = 80
+auth.method = "token"
+auth.additionalScopes = ["HeartBeats", "NewWorkConns"]
+auth.token = "akuajayangtau"
+
+[[proxies]]
+name = "mosquitto"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 1883
+remotePort = 8081
