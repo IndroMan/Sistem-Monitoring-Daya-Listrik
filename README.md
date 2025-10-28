@@ -25,8 +25,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
          ↓
   [Aplikasi Android (Kodular)]
 ```
-
-![Diagram Arsitektur](./Gambar/Topologi.png)
+<img src="./Gambar/Topologi.png" alt="Tampilan Aplikasi Kodular" width="30%">
 
 ---
 
@@ -41,7 +40,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 > Gunakan catu daya 5V stabil untuk modul PZEM-004T dan pastikan ground disatukan dengan ESP32.
 
-![Skematik ESP32 ke PZEM](./Gambar/Skematik%20Alat.png)
+<img src="./Gambar/Skematik%20Alat.png" alt="Tampilan Aplikasi Kodular" width="30%">
 
 ---
 
