@@ -163,5 +163,3 @@ Aplikasi menampilkan data:
 📍 Samarinda, Kalimantan Timur
 
 ---
-
-> *“Monitoring daya listrik kini jadi mudah dan real-time melalui integrasi IoT.”*
