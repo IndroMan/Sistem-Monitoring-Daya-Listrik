@@ -41,7 +41,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 > Gunakan catu daya 5V stabil untuk modul PZEM-004T dan pastikan ground disatukan dengan ESP32.
 
-![Skematik ESP32 ke PZEM](./Gambar/SkematikAlat.png)
+![Skematik ESP32 ke PZEM](./Gambar/Skematik@20Alat.png)
 
 ---
 
@@ -128,7 +128,7 @@ Aplikasi menampilkan data:
 * Energi (kWh)
 * Estimasi biaya listrik
 
-![UI Kodular](./Gambar/OutputApp.jpeg)
+![UI Kodular](./Gambar/Output%20Aplikasi.jpeg)
 
 ---
 
