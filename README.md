@@ -16,15 +16,6 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 ## ⚙️ Arsitektur Sistem
 
-```
-[PZEM-004T] ⇄ [ESP32] ⇄ [Router Wi-Fi]
-         ↓
-     [Broker MQTT (Mosquitto)]
-         ↓
-     [FRP Server Publik]
-         ↓
-  [Aplikasi Android (Kodular)]
-```
 
 ![Diagram Arsitektur](./Gambar/Topologi.png)
 
@@ -41,7 +32,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 > Gunakan catu daya 5V stabil untuk modul PZEM-004T dan pastikan ground disatukan dengan ESP32.
 
-![Skematik ESP32 ke PZEM](./Gambar/Skematik@20Alat.png)
+![Skematik ESP32 ke PZEM](./Gambar/Skematik Alat.png)
 
 ---
 
