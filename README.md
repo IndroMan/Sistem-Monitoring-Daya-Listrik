@@ -128,7 +128,7 @@ Aplikasi menampilkan data:
 * Energi (kWh)
 * Estimasi biaya listrik
 
-![UI Kodular](./Gambar/Output%20Aplikasi.jpeg)
+<img src="./Gambar/Output%20Aplikasi.jpeg" alt="Tampilan Aplikasi Kodular" width="50%">
 
 ---
 
