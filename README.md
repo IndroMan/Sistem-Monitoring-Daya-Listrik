@@ -16,8 +16,17 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 ## ⚙️ Arsitektur Sistem
 
+```
+[PZEM-004T] ⇄ [ESP32] ⇄ [Router Wi-Fi]
+         ↓
+     [Broker MQTT (Mosquitto)]
+         ↓
+     [FRP Server Publik]
+         ↓
+  [Aplikasi Android (Kodular)]
+```
 
-![Diagram Arsitektur]([./Gambar/Topologi.png])
+![Diagram Arsitektur](./Gambar/Topologi.png)
 
 ---
 
@@ -32,7 +41,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 > Gunakan catu daya 5V stabil untuk modul PZEM-004T dan pastikan ground disatukan dengan ESP32.
 
-![Skematik ESP32 ke PZEM]([./Gambar/Skematik_Alat.png])
+![Skematik ESP32 ke PZEM](./images/"Skematik Alat.png")
 
 ---
 
@@ -119,7 +128,7 @@ Aplikasi menampilkan data:
 * Energi (kWh)
 * Estimasi biaya listrik
 
-![UI Kodular](./Gambar/Output_App.jpeg)
+![UI Kodular](./images/ui-kodular.png)
 
 ---
 
