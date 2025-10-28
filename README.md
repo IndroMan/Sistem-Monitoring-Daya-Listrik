@@ -40,9 +40,8 @@ Perangkat utama:
      [FRP Server Publik]
          ↓
   [Aplikasi Android (Kodular)]
-![alt text]https://drive.google.com/file/d/1y2_jFxCM9v0zlLWh-fi-jEPuN4ESc05Y/view?usp=drive_linkhttps://drive.google.com/file/d/1y2_jFxCM9v0zlLWh-fi-jEPuN4ESc05Y/view?usp=drive_link
 ```
-
+![alt text](https://drive.google.com/file/d/1y2_jFxCM9v0zlLWh-fi-jEPuN4ESc05Y/view?usp=drive_linkhttps://drive.google.com/file/d/1y2_jFxCM9v0zlLWh-fi-jEPuN4ESc05Y/view?usp=drive_link)
 * Sensor PZEM-004T mengukur tegangan, arus, daya, dan energi.
 * ESP32 mengirim data ke broker MQTT lokal dengan QoS 1.
 * Broker dihubungkan ke internet melalui FRP untuk akses jarak jauh.
