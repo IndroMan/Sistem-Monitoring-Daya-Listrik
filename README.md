@@ -26,7 +26,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
   [Aplikasi Android (Kodular)]
 ```
 
-![Diagram Arsitektur](./images/diagram-arsitektur.png)
+![Diagram Arsitektur](./Gambar/Topologi.png)
 
 ---
 
@@ -41,7 +41,7 @@ Sistem terdiri dari **ESP32** sebagai mikrokontroler, **sensor PZEM-004T** untuk
 
 > Gunakan catu daya 5V stabil untuk modul PZEM-004T dan pastikan ground disatukan dengan ESP32.
 
-![Skematik ESP32 ke PZEM](./images/skematik-esp32-pzem.png)
+![Skematik ESP32 ke PZEM](./Gambar/SkematikAlat.png)
 
 ---
 
@@ -128,7 +128,7 @@ Aplikasi menampilkan data:
 * Energi (kWh)
 * Estimasi biaya listrik
 
-![UI Kodular](./images/ui-kodular.png)
+![UI Kodular](./Gambar/OutputApp.jpeg)
 
 ---
 
